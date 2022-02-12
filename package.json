@@ -1,5 +1,5 @@
 {
-	"name": "directus",
+	"name": "directus9-lite",
 	"version": "9.5.1",
 	"license": "GPL-3.0-only",
 	"homepage": "https://github.com/directus/directus#readme",
@@ -68,7 +68,7 @@
 		"test:watch": "jest --watchAll"
 	},
 	"engines": {
-		"node": ">=12.20.0"
+		"node": ">=11.15.0"
 	},
 	"files": [
 		"dist",
